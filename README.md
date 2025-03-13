@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello 👋
+
+## Favorite Tech
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,godot,blender,html,css,js,mysql,sqlite,nginx,nodejs,vscode,windows)](https://skillicons.dev)
+
+## Github Statistics
+[![KeithGDR's GitHub stats](https://github-readme-stats.vercel.app/api?username=keithgdr)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KeithGDR/KeithGDR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
